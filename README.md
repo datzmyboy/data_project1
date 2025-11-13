@@ -43,6 +43,64 @@ The analysis shows that the **Thai Chicken (Large) pizza** achieves its highest 
 This trend suggests that demand increases during **mid-year holidays** and **year-end celebrations**, reflecting seasonal buying behavior. February shows a slight dip, likely due to the post-New Year period, while sales steadily rise from March to July, dip slightly in August, and remain high through December.
 
 
+![Project Screenshot](https://github.com/datzmyboy/data_project1/blob/392e68c1871e1515a0972f51d29d84e9d7492b96/Screenshot%202025-11-13%20134417.png)
+![Project Screenshot](https://github.com/datzmyboy/data_project1/blob/392e68c1871e1515a0972f51d29d84e9d7492b96/Screenshot%202025-11-13%20134459.png)
+
+### Peak Sales by Day: For the Thai Chicken (Large) Pizza
+
+The analysis shows that **Friday** has the highest number of orders (**244 orders**), followed by **Thursday** and **Saturday**.  
+
+This trend suggests that pizza demand rises toward the **weekend**, likely due to end-of-week celebrations or social gatherings. In contrast, **Sunday** and **Monday** have the fewest orders, possibly because customers are resting, preparing for the week ahead, or resuming regular routines.
+
+
+![Project Screenshot](https://github.com/datzmyboy/data_project1/blob/61b90d40eedefbf87f23ef65dd883afd7290d9bc/Screenshot%202025-11-13%20134417.png)
+![Project Screenshot](https://github.com/datzmyboy/data_project1/blob/61b90d40eedefbf87f23ef65dd883afd7290d9bc/Screenshot%202025-11-13%20134459.png)
+
+### Peak Sales by Day: For the Thai Chicken (Large) Pizza
+
+The analysis shows that **Friday** has the highest number of orders (**244 orders**), followed by **Thursday** and **Saturday**.  
+
+This trend suggests that pizza demand rises toward the **weekend**, likely due to end-of-week celebrations or social gatherings. In contrast, **Sunday** and **Monday** have the fewest orders, possibly because customers are resting, preparing for the week ahead, or resuming regular routines.
+
+
+![Project Screenshot](https://github.com/datzmyboy/data_project1/blob/61b90d40eedefbf87f23ef65dd883afd7290d9bc/Screenshot%202025-11-13%20135222.png)
+![Project Screenshot](https://github.com/datzmyboy/data_project1/blob/61b90d40eedefbf87f23ef65dd883afd7290d9bc/Screenshot%202025-11-13%20135510.png)
+
+### Peak Sales by Hour: For the Thai Chicken (Large) Pizza
+
+The analysis shows that pizza orders start increasing around **10 AM**, peaking between **11 AM and 1 PM** as people take lunch or snacks. Orders dip slightly around **2–3 PM** while most customers are at work, then rise again from **4–6 PM** when people leave work. After **6 PM**, orders gradually decline as customers settle at home.  
+
+The **busiest hour** is **1 PM**, generating the highest revenue of approximately **₱3,942.50** from **190 orders**, indicating that customer demand is concentrated during specific hours.  
+
+These patterns provide insights for **inventory planning, staffing, and targeted promotions** to maximize revenue during peak periods.
+
+
+
+**Question 3 – Consistency of Sales Peaks**: <small>Based on the pizza with the highest revenue, what are its peak sales hours across all days, and how consistent are those peaks?</small>
+
+
+
+
+![Project Screenshot](https://github.com/datzmyboy/data_project1/blob/61b90d40eedefbf87f23ef65dd883afd7290d9bc/Screenshot%202025-11-13%20135600.png)
+
+
+
+
+![Project Screenshot](https://github.com/datzmyboy/data_project1/blob/61b90d40eedefbf87f23ef65dd883afd7290d9bc/Screenshot%202025-11-13%20135621.png)
+
+
+### Consistency of Sales Peaks: Thai Chicken (Large) Pizza
+
+The data shows a clear hourly sales pattern across most months. Orders start to increase from **10 AM** and reach their **peak at 1 PM**. After 1 PM, sales decline until around 3 PM, then rise again between **3 PM and 6 PM** before dropping steadily for the rest of the evening.  
+
+Although not all months follow this pattern exactly, the majority display the same trend, indicating a **consistent daily sales rhythm**.  
+
+*Note:* The query was designed in a **pivot-style format**, making it more understandable and intuitive by showing hourly orders for each month in a single table.
+
+
+
+
+
 
 
 
