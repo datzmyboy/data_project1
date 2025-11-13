@@ -5,7 +5,12 @@ I obtained the dataset from [https://www.kaggle.com/datasets/mexwell/pizza-sales
 
 Below are the three analytical questions I designed — as if I were working for this pizza company — to support operational and strategic decision-making:
 
+
+
+
 **Question 1 – Highest Revenue Pizza:** <small>Which pizza generates the highest total revenue?</small>
+
+
 
 ![Project Screenshot](https://github.com/datzmyboy/data_project1/blob/9b1a5c7362d4f8d72cbed320418932b7ed022db9/Screenshot%202025-11-13%20132209.png)
 ![Project Screenshot](https://github.com/datzmyboy/data_project1/blob/9b1a5c7362d4f8d72cbed320418932b7ed022db9/Screenshot%202025-11-13%20132234.png)
@@ -24,6 +29,18 @@ This indicates that the large chicken variant of the Thai chicken pizza is the m
 
 
 **Question 2 -  Peak Sales by Month, Day, and Hour**: <small>For the pizza with the highest revenue, in which month, day, and hour does it sell the most?</small>
+
+
+
+
+![Project Screenshot](https://github.com/datzmyboy/data_project1/blob/6a2c0ae24012b025dd4bf90b5eb0d35523818599/Screenshot%202025-11-13%20132209.png)
+![Project Screenshot](https://github.com/datzmyboy/data_project1/blob/6a2c0ae24012b025dd4bf90b5eb0d35523818599/Screenshot%202025-11-13%20133649.png)
+
+### Peak Sales by Month: For the Thai Chicken (Large) Pizza
+
+The analysis shows that the **Thai Chicken (Large) pizza** achieves its highest revenue in **July and December**, each generating approximately **₱2,801.25** from **135 orders**.  
+
+This trend suggests that demand increases during **mid-year holidays** and **year-end celebrations**, reflecting seasonal buying behavior. February shows a slight dip, likely due to the post-New Year period, while sales steadily rise from March to July, dip slightly in August, and remain high through December.
 
 
 
