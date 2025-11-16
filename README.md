@@ -38,7 +38,7 @@ This indicates that the large chicken variant of the Thai chicken pizza is the m
 
 ### Peak Sales by Month: For the Thai Chicken (Large) Pizza
 
-The analysis shows that the **Thai Chicken (Large) pizza** achieves its highest revenue in **July and December**, each generating approximately **₱2,801.25** from **135 orders**.  
+The analysis shows that the **Thai Chicken (Large) pizza** achieves its highest revenue in **July and December**, each generating approximately **$2,801.25** from **135 orders**.  
 
 This trend suggests that demand increases during **mid-year holidays** and **year-end celebrations**, reflecting seasonal buying behavior. February shows a slight dip, likely due to the post-New Year period, while sales steadily rise from March to July, dip slightly in August, and remain high through December.
 
